@@ -15,6 +15,7 @@ License: GPL-3
 Depends: R (>= 4.0.0)
 Imports: AnnotationHub
 Suggests: 
+    BiocStyle,
     magrittr,
     graphite,
     dplyr,
